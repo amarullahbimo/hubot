@@ -1,0 +1,222 @@
+npm WARN npm npm does not support Node.js v10.15.2
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+up to date in 1.241s
+[Mon Jul 15 2019 11:50:48 GMT+0700 (Western Indonesia Time)] INFO hubot-slack adapter v4.7.1
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Jul 15 2019 11:50:50 GMT+0700 (Western Indonesia Time)] INFO Logged in as @zltch in workspace Awan
+[Mon Jul 15 2019 11:50:51 GMT+0700 (Western Indonesia Time)] INFO Connected to Slack RTM
+[Mon Jul 15 2019 11:50:51 GMT+0700 (Western Indonesia Time)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Mon Jul 15 2019 11:50:51 GMT+0700 (Western Indonesia Time)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Mon Jul 15 2019 11:50:51 GMT+0700 (Western Indonesia Time)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+npm WARN npm npm does not support Node.js v10.15.2
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+up to date in 1.481s
+[Mon Jul 15 2019 11:53:43 GMT+0700 (Western Indonesia Time)] INFO hubot-slack adapter v4.7.1
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Jul 15 2019 11:53:44 GMT+0700 (Western Indonesia Time)] INFO Logged in as @zltch in workspace Awan
+[Mon Jul 15 2019 11:53:45 GMT+0700 (Western Indonesia Time)] INFO Connected to Slack RTM
+[Mon Jul 15 2019 11:53:45 GMT+0700 (Western Indonesia Time)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Mon Jul 15 2019 11:53:45 GMT+0700 (Western Indonesia Time)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Mon Jul 15 2019 11:53:45 GMT+0700 (Western Indonesia Time)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+npm WARN npm npm does not support Node.js v10.15.2
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+up to date in 1.505s
+[Mon Jul 15 2019 11:56:30 GMT+0700 (Western Indonesia Time)] INFO hubot-slack adapter v4.7.1
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Jul 15 2019 11:56:32 GMT+0700 (Western Indonesia Time)] INFO Logged in as @zltch in workspace Awan
+[Mon Jul 15 2019 11:56:32 GMT+0700 (Western Indonesia Time)] INFO Connected to Slack RTM
+[Mon Jul 15 2019 11:56:32 GMT+0700 (Western Indonesia Time)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Mon Jul 15 2019 11:56:32 GMT+0700 (Western Indonesia Time)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Mon Jul 15 2019 11:56:33 GMT+0700 (Western Indonesia Time)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+npm WARN npm npm does not support Node.js v10.15.2
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+up to date in 1.786s
+[Mon Jul 15 2019 12:08:20 GMT+0700 (Western Indonesia Time)] INFO hubot-slack adapter v4.7.1
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Jul 15 2019 12:08:21 GMT+0700 (Western Indonesia Time)] INFO Logged in as @zltch in workspace Awan
+[Mon Jul 15 2019 12:08:22 GMT+0700 (Western Indonesia Time)] INFO Connected to Slack RTM
+[Mon Jul 15 2019 12:08:22 GMT+0700 (Western Indonesia Time)] ERROR Unable to load /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/scripts/which-is-better: SyntaxError: unexpected \
+  at Object.exports.throwSyntaxError (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/helpers.js:197:13)
+  at Parser.parser.yy.parseError (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:265:20)
+  at Parser.parse (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/parser.js:537:22)
+  at compile (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:35:24)
+  at Object.loadFile (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:176:14)
+  at Module.load (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+  at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+  at Module.require (internal/modules/cjs/loader.js:637:17)
+  at require (internal/modules/cjs/helpers.js:22:18)
+  at Robot.loadFile (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/src/robot.js:360:22)
+  at fs.readdirSync.sort.map.file (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/src/robot.js:383:52)
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/src/robot.js:383:35)
+  at SlackBot.loadScripts (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (events.js:277:13)
+  at SlackBot.emit (events.js:189:13)
+  at SlackBot.open (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot-slack/src/bot.coffee:134:5, <js>:173:19)
+  at RTMClient.<anonymous> (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot-slack/src/bot.coffee:1:1, <js>:3:61)
+  at RTMClient.emit (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/eventemitter3/index.js:115:35)
+  at RTMClient._handleHello (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/@slack/client/lib/clients/rtm/client.js:683:8)
+  at RTMClient._handleWsMessageInternal (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/@slack/client/lib/clients/rtm/client.js:452:10)
+  at RTMClient.handleWsMessage (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/@slack/client/lib/clients/rtm/client.js:433:10)
+  at WebSocket.wrapper (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/lodash/lodash.js:4929:19)
+  at WebSocket.emit (events.js:189:13)
+  at Receiver.ontext (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/WebSocket.js:841:10)
+  at /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:536:18
+  at Receiver.applyExtensions (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:371:5)
+  at /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:508:14
+  at Receiver.flush (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:347:3)
+  at Receiver.finish (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:541:12)
+  at Receiver.expectHandler (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:499:31)
+  at Receiver.add (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:103:24)
+  at TLSSocket.realHandler (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/WebSocket.js:825:20)
+  at TLSSocket.emit (events.js:189:13)
+  at addChunk (_stream_readable.js:284:12)
+  at readableAddChunk (_stream_readable.js:265:11)
+  at TLSSocket.Readable.push (_stream_readable.js:220:10)
+  at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+
+npm WARN npm npm does not support Node.js v10.15.2
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+up to date in 1.299s
+[Mon Jul 15 2019 12:09:39 GMT+0700 (Western Indonesia Time)] INFO hubot-slack adapter v4.7.1
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Jul 15 2019 12:09:40 GMT+0700 (Western Indonesia Time)] INFO Logged in as @zltch in workspace Awan
+[Mon Jul 15 2019 12:09:41 GMT+0700 (Western Indonesia Time)] INFO Connected to Slack RTM
+[Mon Jul 15 2019 12:09:41 GMT+0700 (Western Indonesia Time)] ERROR Unable to load /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/scripts/which-is-better: SyntaxError: unexpected \
+  at Object.exports.throwSyntaxError (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/helpers.js:197:13)
+  at Parser.parser.yy.parseError (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:265:20)
+  at Parser.parse (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/parser.js:537:22)
+  at compile (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:35:24)
+  at Object.loadFile (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:176:14)
+  at Module.load (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+  at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+  at Module.require (internal/modules/cjs/loader.js:637:17)
+  at require (internal/modules/cjs/helpers.js:22:18)
+  at Robot.loadFile (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/src/robot.js:360:22)
+  at fs.readdirSync.sort.map.file (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/src/robot.js:383:52)
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/src/robot.js:383:35)
+  at SlackBot.loadScripts (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (events.js:277:13)
+  at SlackBot.emit (events.js:189:13)
+  at SlackBot.open (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot-slack/src/bot.coffee:134:5, <js>:173:19)
+  at RTMClient.<anonymous> (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot-slack/src/bot.coffee:1:1, <js>:3:61)
+  at RTMClient.emit (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/eventemitter3/index.js:115:35)
+  at RTMClient._handleHello (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/@slack/client/lib/clients/rtm/client.js:683:8)
+  at RTMClient._handleWsMessageInternal (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/@slack/client/lib/clients/rtm/client.js:452:10)
+  at RTMClient.handleWsMessage (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/@slack/client/lib/clients/rtm/client.js:433:10)
+  at WebSocket.wrapper (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/lodash/lodash.js:4929:19)
+  at WebSocket.emit (events.js:189:13)
+  at Receiver.ontext (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/WebSocket.js:841:10)
+  at /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:536:18
+  at Receiver.applyExtensions (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:371:5)
+  at /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:508:14
+  at Receiver.flush (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:347:3)
+  at Receiver.finish (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:541:12)
+  at Receiver.expectHandler (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:499:31)
+  at Receiver.add (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:103:24)
+  at TLSSocket.realHandler (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/WebSocket.js:825:20)
+  at TLSSocket.emit (events.js:189:13)
+  at addChunk (_stream_readable.js:284:12)
+  at readableAddChunk (_stream_readable.js:265:11)
+  at TLSSocket.Readable.push (_stream_readable.js:220:10)
+  at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+
+npm WARN npm npm does not support Node.js v10.15.2
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+up to date in 1.209s
+[Mon Jul 15 2019 12:48:20 GMT+0700 (Western Indonesia Time)] INFO hubot-slack adapter v4.7.1
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Jul 15 2019 12:48:22 GMT+0700 (Western Indonesia Time)] INFO Logged in as @zltch in workspace Awan
+[Mon Jul 15 2019 12:48:22 GMT+0700 (Western Indonesia Time)] INFO Connected to Slack RTM
+[Mon Jul 15 2019 12:48:22 GMT+0700 (Western Indonesia Time)] ERROR Unable to load /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/scripts/which-is-better: SyntaxError: unexpected \
+  at Object.exports.throwSyntaxError (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/helpers.js:197:13)
+  at Parser.parser.yy.parseError (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:265:20)
+  at Parser.parse (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/parser.js:537:22)
+  at compile (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:35:24)
+  at Object.loadFile (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:176:14)
+  at Module.load (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+  at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+  at Module.require (internal/modules/cjs/loader.js:637:17)
+  at require (internal/modules/cjs/helpers.js:22:18)
+  at Robot.loadFile (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/src/robot.js:360:22)
+  at fs.readdirSync.sort.map.file (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/src/robot.js:383:52)
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/src/robot.js:383:35)
+  at SlackBot.loadScripts (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (events.js:277:13)
+  at SlackBot.emit (events.js:189:13)
+  at SlackBot.open (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot-slack/src/bot.coffee:134:5, <js>:173:19)
+  at RTMClient.<anonymous> (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/hubot-slack/src/bot.coffee:1:1, <js>:3:61)
+  at RTMClient.emit (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/eventemitter3/index.js:115:35)
+  at RTMClient._handleHello (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/@slack/client/lib/clients/rtm/client.js:683:8)
+  at RTMClient._handleWsMessageInternal (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/@slack/client/lib/clients/rtm/client.js:452:10)
+  at RTMClient.handleWsMessage (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/@slack/client/lib/clients/rtm/client.js:433:10)
+  at WebSocket.wrapper (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/lodash/lodash.js:4929:19)
+  at WebSocket.emit (events.js:189:13)
+  at Receiver.ontext (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/WebSocket.js:841:10)
+  at /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:536:18
+  at Receiver.applyExtensions (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:371:5)
+  at /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:508:14
+  at Receiver.flush (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:347:3)
+  at Receiver.finish (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:541:12)
+  at Receiver.expectHandler (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:499:31)
+  at Receiver.add (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/Receiver.js:103:24)
+  at TLSSocket.realHandler (/media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/node_modules/ws/lib/WebSocket.js:825:20)
+  at TLSSocket.emit (events.js:189:13)
+  at addChunk (_stream_readable.js:284:12)
+  at readableAddChunk (_stream_readable.js:265:11)
+  at TLSSocket.Readable.push (_stream_readable.js:220:10)
+  at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+
+npm WARN npm npm does not support Node.js v10.15.2
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+up to date in 1.411s
+[Mon Jul 15 2019 12:53:37 GMT+0700 (Western Indonesia Time)] INFO hubot-slack adapter v4.7.1
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Jul 15 2019 12:53:39 GMT+0700 (Western Indonesia Time)] INFO Logged in as @zltch in workspace Awan
+[Mon Jul 15 2019 12:53:39 GMT+0700 (Western Indonesia Time)] INFO Connected to Slack RTM
+[Mon Jul 15 2019 12:53:39 GMT+0700 (Western Indonesia Time)] INFO /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/scripts/which-is-better.coffee is using deprecated documentation syntax
+[Mon Jul 15 2019 12:53:39 GMT+0700 (Western Indonesia Time)] INFO /media/zleetch/0fbc429c-58b4-4ad9-afc1-b6558fef7007/Magang/hubot/scripts/which-is-better.js is using deprecated documentation syntax
+[Mon Jul 15 2019 12:53:39 GMT+0700 (Western Indonesia Time)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Mon Jul 15 2019 12:53:39 GMT+0700 (Western Indonesia Time)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Mon Jul 15 2019 12:53:40 GMT+0700 (Western Indonesia Time)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
